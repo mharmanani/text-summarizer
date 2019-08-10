@@ -1,1 +1,2 @@
-# text-summarizer
+# Python Flask Text Summarizer
+A Flask web application allowing users to input long paragraphs to be summarized into shorter sets of sentences. The backend is written in Python, and uses the TextRank algorithm to rank sentences. The front end is written in HTML+CSS. 
